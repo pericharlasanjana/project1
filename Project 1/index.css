@@ -1,0 +1,73 @@
+.nav{
+    width:100%;
+    background-color: white;
+
+}
+.logo{
+    position: relative;
+    left : 200px;
+    top : 25px;
+}
+.t1{
+    position: relative;
+    left : 400px;
+    bottom: 28px;
+    font-weight: lighter;
+}
+.t2{
+    position: relative;
+    left : 500px;
+    bottom: 70px;
+    font-weight: lighter;
+}
+.t3{
+        position: relative;
+        left : 670px;
+        bottom: 110px;
+        font-weight: lighter;
+    
+}
+.head{
+    position: relative;
+    left : 200px;
+    top : 70px;
+    font-size: 70px;
+    
+}
+.t4{
+    position: relative;
+    left : 200px;
+    top : 70px;
+    font-weight: lighter;
+}
+.btn{
+    position: relative;
+    left : 200px;
+    top:70px;
+    background-color:green;
+    color: white;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+.img1{
+    position: absolute;
+    left : 820px;
+    top: 200px;
+    width : 10%; 
+    
+}
+.img2{
+    position: absolute;
+    left : 980px;
+    top: 190px;
+    width : 10%; 
+}
+.img3{
+    position: absolute;
+    left : 820px;
+    top: 400px;
+    width : 22%; 
+}
